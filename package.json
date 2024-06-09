@@ -1,0 +1,29 @@
+{
+  "name": "ps-time-utils",
+  "version": "1.0.0",
+  "description": "Package to help deal with time and date related data",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pav10s/ps-time-utils.git"
+  },
+  "keywords": [
+    "Time",
+    "Date"
+  ],
+  "author": "Pav10s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pav10s/ps-time-utils/issues"
+  },
+  "homepage": "https://github.com/Pav10s/ps-time-utils#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
